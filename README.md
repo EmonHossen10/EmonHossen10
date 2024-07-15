@@ -1,6 +1,10 @@
  
-![YourHeaderImage](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
+ <!-- ![YourHeaderImage](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) -->
+ <div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*CPyoGtQi0LmN0E5defCryQ.gif" alt="YourHeaderImage">
+</div>
+ 
+ 
 <h1 align="center">Hi 👋, I'm Mohammad Easin Arafat Emon</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 

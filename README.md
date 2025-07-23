@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
-<p align="left">
+<p align="left" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=emonhossen10&label=Profile%20views&color=0e75b6&style=flat" alt="emonhossen10" />
 </p>
 
@@ -17,7 +17,7 @@
 
 ## 🚀 Tech Stack I Work With
 
-<p align="left">
+<p align="left"  >
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />

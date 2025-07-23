@@ -1,7 +1,8 @@
 <!-- Header GIF -->
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="Header Image" width="100%" />
+  <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="Header Image" width="100%" style="height: 350px; object-fit: cover;" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Easin Arafat Emon</h1>
 <h3 align="center">🚀 Passionate MERN Stack Developer | Building Fast, Scalable Web Apps from Bangladesh</h3>

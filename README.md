@@ -1,5 +1,5 @@
 <!-- Header GIF -->
-<div align="center">
+<div align="center mx-auto">
   <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="Header Image" width="100%" style="height: 350px; object-fit: cover;" />
 </div>
 

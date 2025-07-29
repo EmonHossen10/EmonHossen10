@@ -68,9 +68,11 @@
 
   <br/>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=EmonHossen10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=EmonHossen101&theme=dark)](https://git.io/streak-stats)
 
   <!-- Second row: GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=emonhossen10&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+  
 
 </div>

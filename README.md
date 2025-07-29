@@ -63,17 +63,11 @@
   <!-- First row: Stats + Top Languages (same height) -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=emonhossen10&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200" />
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=EmonHossen101&theme=dark)](https://git.io/streak-stats)
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossen10&layout=compact&theme=radical" alt="Top Languages" height="200" />
   </div>
 
   <br/>
 
-
-
   <!-- Second row: GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=emonhossen10&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-  
-
 </div>

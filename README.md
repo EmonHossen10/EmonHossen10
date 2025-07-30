@@ -1,73 +1,122 @@
-<!-- Header GIF -->
-<div align="center ">
-  <img src="https://miro.medium.com/v2/resize:fit:3200/0*de0IdiUSoJTwgsys.gif" alt="Header Image" width="100%" style="height: 350px; object-fit: cover;" />
+<!-- Professional Header Image -->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/6a4afa443908df0d15686f498f6e2ed1cb0a55f0b5ba11d7da87443df731d951/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382c7175616c6974792d3130302f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067" alt="Developer Header" width="100%" style="height: 350px; object-fit: cover; border-radius: 8px;"/>
 </div>
 
-
-<h1 align="center">Hi 👋, I'm Mohammad Easin Arafat Emon</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | Building Fast, Scalable Web Apps from Bangladesh</h3>
-
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
-
-<p align="left" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=emonhossen10&label=Profile%20views&color=0e75b6&style=flat" alt="emonhossen10" />
-</p>
-
----
-
-## 🚀 Tech Stack I Work With
-
-<p align="left"  >
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- ⚡ **Next.js 14** for server-side rendering
-- 🧠 Real-time apps with **Socket.IO**
-- 🎨 Advanced component systems like **shadcn/ui** and **Radix UI**
-
----
-
-## 💬 Ask Me About
-
-- 🔹 JavaScript, React, Node.js, MongoDB
-- 🔹 REST APIs & real-time apps
-- 🔹 Tailwind, Bootstrap, Firebase
-
----
-
-## 📫 Contact Me
-
-- 📧 **emonhossen1000@gmail.com**
-- 🌐 [**Portfolio Website**](https://my-portfolio-rouge-eight-67.vercel.app/)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/mohammademon92/)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">✨ Hi, I'm Mohammad Easin Arafat Emon ✨</h1>
+<h3 align="center">💻 MERN Stack Developer | � Next.js Enthusiast | 🔥 Building Scalable Web Solutions</h3>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Open-Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</div>
 
-  <!-- First row: Stats + Top Languages (same height) -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=emonhossen10&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossen10&layout=compact&theme=radical" alt="Top Languages" height="200" />
-  </div>
+<p align="left" style="margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=emonhossen10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/twitter/follow/EmonHossen10?logo=twitter&style=social" alt="Twitter Follow" />
+  </a>
+</p>
 
-  <br/>
+---
 
-  <!-- Second row: GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emonhossen10&theme=radical&hide_border=false" alt="GitHub Streak" />
+## 🛠️ Technical Stack
+
+### 📜 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🚀 Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Mastering **Next.js 14** with App Router
+- 🌐 Building **real-time applications** with Socket.IO
+- 🎨 Implementing **modern UI systems** (shadcn/ui, Radix UI)
+- 📊 Learning **advanced data visualization** with D3.js
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammademon92/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:emonhossen1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://my-portfolio-rouge-eight-67.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-F28C38?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://x.com/emonhossen10" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emonhossen10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonhossen10&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emonhossen10&theme=radical" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonhossen10&theme=react-dark&hide_border=true&area=true)
+</div>
+
+---
+
+## � GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emonhossen10&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>

@@ -111,12 +111,13 @@ This is  header images
  
 </div>
 
----
-## 🧮 Visitor Count
 
-<img src="https://profile-counter.deno.dev/EmonHossen10/count.svg" alt="Key:: Visitor's Count" />
 
 ---
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+## 🧮 Visitor Count
+
+<img src="https://profile-counter.deno.dev/EmonHossen10/count.svg" alt="Key:: Visitor's Count" />

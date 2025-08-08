@@ -108,19 +108,14 @@ This is  header images
     </tr>
   </table>
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emonhossen10&theme=react-dark&hide_border=true&area=true)
+ 
 </div>
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/EmonHossen10/count.svg)
 
-## � GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emonhossen10&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>

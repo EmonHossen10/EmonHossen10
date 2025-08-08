@@ -112,10 +112,6 @@ This is  header images
 </div>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/EmonHossen10/count.svg)
-
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>

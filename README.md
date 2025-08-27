@@ -1,5 +1,5 @@
 <!-- Professional Header Image -->
-<div align="center mx-auto ">
+<div align="center ">
   <img src="https://miro.medium.com/v2/resize:fit:1400/0*0O5n9x6pzlJ5qLkC.gif" width="100%" style="height: 350px; object-fit: cover; border-radius: 8px;"/>
 </div>
 <!--

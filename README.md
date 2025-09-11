@@ -64,10 +64,10 @@ This is  header images
 
 ## 🔥 Current Focus
 
+- 📊 Learning **Typescript** For development
 - 🚀 Mastering **Next.js 14** with App Router
 - 🌐 Building **real-time applications** with Socket.IO
 - 🎨 Implementing **modern UI systems** (shadcn/ui, Radix UI)
-- 📊 Learning **Typescript** For development
 
 ---
 

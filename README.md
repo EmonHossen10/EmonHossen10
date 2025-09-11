@@ -67,7 +67,7 @@ This is  header images
 - 🚀 Mastering **Next.js 14** with App Router
 - 🌐 Building **real-time applications** with Socket.IO
 - 🎨 Implementing **modern UI systems** (shadcn/ui, Radix UI)
-- 📊 Learning **advanced data visualization** with D3.js
+- 📊 Learning **Typescript** For development
 
 ---
 
